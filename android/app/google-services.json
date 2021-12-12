@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229728297376",
+    "project_id": "isho-smart-home",
+    "storage_bucket": "isho-smart-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229728297376:android:0dc4fa389226f4e5a8c4c5",
+        "android_client_info": {
+          "package_name": "com.example.isho_smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229728297376-7j4clba7sst873rful2bfpjbfn05iii7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.isho_smart_home",
+            "certificate_hash": "dabe834378cda076f3a354b0bc76015f54cf833a"
+          }
+        },
+        {
+          "client_id": "229728297376-r5kbkedbksmdh7hsg4kegpmeclrjdo7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB79mx5N_0uH9DLJzcIxrSfL-4RYQl473o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229728297376-r5kbkedbksmdh7hsg4kegpmeclrjdo7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
